@@ -13,6 +13,7 @@
 - [@Nadai02010](#nadai02010)
 - [@haycarlitos](#haycarlitos)
 - [@devnet0x](#devnet0x)
+- [@0xhasher_](#0xhasher_)
 
 
 #### @dpinones

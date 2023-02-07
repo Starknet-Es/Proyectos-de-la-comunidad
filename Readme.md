@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="starknet logo" src="./assets/Starknet.png" width="200" >
+  <img alt="starknet logo" src="https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/assets/Starknet.png" width="200" >
   <h1 align="center">Proyectos de la comunidad</h1>
   <p align="center">
 
@@ -8,11 +8,11 @@
 
 ### Autores y aportaciones
 
-- [@dpinones](#@dpinones)
-- [@dub_zn](#@dub_zn)
+- [@dpinones](#dpinones)
+- [@dub_zn](#dub_zn)
 - [@Nadai02010](#nadai02010)
 - [@haycarlitos](#haycarlitos)
-- [@devnet0x](#@devnet0x)
+- [@devnet0x](#devnet0x)
 
 
 #### @dpinones

@@ -34,7 +34,7 @@
 - [¿Qué es SHARP?](https://github.com/Nadai2010/Nadai-SHARP-Starknet)
 - [Nadai Starknet UDC con Protostar y L2EsERC72](https://github.com/Nadai2010/Nadai-Starknet-UDC-Protostar-L2ESERC721)
 - [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA)
-- [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
+- [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0)
 
 #### @haycarlitos
 

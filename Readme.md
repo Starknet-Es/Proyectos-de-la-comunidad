@@ -69,6 +69,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Nadai02010"><img src="Nadai.jpg" width="100px;" alt="Nadai02010"/><br /><sub><b>@Nadai02010</b></sub></a><br /><a href="https://twitter.com/Nadai02010" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/haycarlitos"><img src="haycarlitos.jpg" width="100px;" alt="haycarlitos"/><br /><sub><b>@haycarlitos</b></sub></a><br /><a href="https://twitter.com/haycarlitos" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/devnet0x"><img src="devnet0x.jpg" width="100px;" alt="devnet0x"/><br /><sub><b>@devnet0x</b></sub></a><br /><a href="https://twitter.com/devnet0x" title="Twitter"></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xhasher_"><img src="0xhasher_.jpg" width="100px;" alt="0xhasher_"/><br /><sub><b>@0xhasher_</b></sub></a><br /><a href="https://twitter.com/0xhasher_" title="Twitter"></a></td>
     </tr>
   </tbody>
 </table>

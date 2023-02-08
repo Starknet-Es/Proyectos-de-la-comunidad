@@ -1,18 +1,19 @@
 <div align="center">
-  <img alt="starknet logo" src="./assets/Starknet.png" width="200" >
+  <img alt="starknet logo" src="https://github.com/Starknet-Es/StarknetEs-Aprendizaje/blob/master/assets/Starknet.png" width="200" >
   <h1 align="center">Proyectos de la comunidad</h1>
   <p align="center">
 
-  <p align="center">Una lista de recursos, dapps y contenidos creados por la comunidad StrakNetES relacionado con Starknet y Cairo 
+  <p align="center">En este repositorio añadiremos desde StarkNetEs Ofical, una lista de recursos, dapps y contenidos creados por la comunidad StrakNetES relacionado con Starknet y Cairo.
 </div>
 
 ### Autores y aportaciones
 
-- [@dpinones](#@dpinones)
-- [@dub_zn](#@dub_zn)
+- [@dpinones](#dpinones)
+- [@dub_zn](#dub_zn)
 - [@Nadai02010](#nadai02010)
-- [@haycarlitos](#haycarlitos)
-- [@devnet0x](#@devnet0x)
+- [@haycarlitos](haycarlitos)
+- [@devnet0x](#devnet0x)
+- [@0xhasher_](#0xhasher_)
 
 
 #### @dpinones
@@ -63,11 +64,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dpinoness"><img src="imágenes/dami.jpg" width="100px;" alt="dpinones "/><br /><sub><b>@dpinoness</b></sub></a><br /><a href="https://twitter.com/dpinoness" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="imágenes/dub.jpg" width="100px;" alt="dub "/><br /><sub><b>@dub_zn</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Nadai02010"><img src="imágenes/starknetes.jpg" width="100px;" alt="Nadai02010"/><br /><sub><b>@Nadai02010</b></sub></a><br /><a href="https://twitter.com/Nadai02010" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/haycarlitos"><img src="imágenes/haycarlitos.jpg" width="100px;" alt="haycarlitos"/><br /><sub><b>@haycarlitos</b></sub></a><br /><a href="https://twitter.com/haycarlitos" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/devnet0x"><img src="imágenes/devnet0x.jpg" width="100px;" alt="devnet0x"/><br /><sub><b>@devnet0x</b></sub></a><br /><a href="https://twitter.com/devnet0x" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dpinoness"><img src="dami.jpg" width="100px;" alt="dpinones "/><br /><sub><b>@dpinoness</b></sub></a><br /><a href="https://twitter.com/dpinoness" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="dub.jpg" width="100px;" alt="dub "/><br /><sub><b>@dub_zn</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Nadai02010"><img src="Nadai.jpg" width="100px;" alt="Nadai02010"/><br /><sub><b>@Nadai02010</b></sub></a><br /><a href="https://twitter.com/Nadai02010" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/haycarlitos"><img src="haycarlitos.jpg" width="100px;" alt="haycarlitos"/><br /><sub><b>@haycarlitos</b></sub></a><br /><a href="https://twitter.com/haycarlitos" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/devnet0x"><img src="devnet0x.jpg" width="100px;" alt="devnet0x"/><br /><sub><b>@devnet0x</b></sub></a><br /><a href="https://twitter.com/devnet0x" title="Twitter"></a></td>
     </tr>
   </tbody>
 </table>

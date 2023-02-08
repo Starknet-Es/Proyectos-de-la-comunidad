@@ -3,7 +3,7 @@
   <h1 align="center">Proyectos de la comunidad</h1>
   <p align="center">
 
-  <p align="center">En este repositorio añadiremos desde StarkNetEs Ofical, una lista de recursos, dapps y contenidos creados por la comunidad StrakNetES relacionado con Starknet y Cairo.
+  <p align="center">En este repositorio añadiremos desde StarkNetEs Oficial una lista de recursos, dapps y contenidos creados por la comunidad StrakNetES relacionado con Starknet y Cairo.
 </div>
 
 ### Autores y aportaciones

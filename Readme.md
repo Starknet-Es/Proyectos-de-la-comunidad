@@ -48,7 +48,7 @@
 
 #### @0xhasher_
 
-- [¿En qué consiste el Protocolo FRI?](https://twitter.com/0xhasher_/status/1626246677702090752)
+- [¿En qué consiste el Protocolo FRI?](https://twitter.com/0xhasher_/status/1626245754116341760)
 - [Matemáticas del Protocolo STARK](https://twitter.com/0xhasher_/status/1623006274962042891)
 - [Introducción a los STARK](https://twitter.com/0xhasher_/status/1620100835823996933)
 - [Amenazas de la computación cuántica](https://twitter.com/0xhasher_/status/1618259198177079296)

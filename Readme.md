@@ -31,11 +31,12 @@
 
 #### @Nadai02010
 
+- [Nadai L2 Español Profundizando Starks](https://mirror.xyz/layer2es.eth/8TUEfpZPgl1u3-HyyGaUA0YMrFm8XSHfYtY6tfqFX7s) - Nadai con L2 Español elaboraron un artículo profundizando sobre el ecosistema Starkware, Starknet y Starks, un documento que incluye Winterfell, RiscZero, ZeroSync, Polygon Miden y más, haciendo que las Starks siente las báses criptográficas del futuro.
+- [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
 - [¿Qué son los SFTs (Semi Fungibles Tokens)?](https://github.com/Nadai2010/Nadai-ERC3525-Starknet) - Guía el ERC-3525 Semi-Fungible Token SFT, como deployar en Starknet y su finalidad.
 - [¿Qué es SHARP?](https://github.com/Nadai2010/Nadai-SHARP-Starknet) - Explicación de SHARP y su objetivo en garantizar la seguridad y la verificabilidad de los contratos inteligentes escritos en Cairo, el lenguaje de programación de Starknet.
 - [Nadai Starknet UDC con Protostar y L2EsERC72](https://github.com/Nadai2010/Nadai-Starknet-UDC-Protostar-L2ESERC721)
 - [Workshop L2 Starknet AA](https://github.com/Nadai2010/Nadai-Workshop-L2-Starknet-AA) - Recapitulación de los Workshop 6-7 realizados por las comunidades de L2 Español y StarkNetEs sobre AA.
-- [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
 - [Nadai UDC con Protostar y NFT con Metadata de POAP](https://github.com/Nadai2010/Nadai-Starknet-UDC-Protostar-L2ESERC721) - En esta guía aprenderemos como deployar un contrato usando el Universal Deploy Contract, también podran disfurtar de una metadata EXCLUSIVA para el Mint de unos NFT de la colección de los POAP de L2 Español y StarkNetEs.
 
 #### @haycarlitos

@@ -59,6 +59,7 @@
 - [Zero Knowledge Parte 3](https://twitter.com/0xhasher_/status/1595447526010015744)
 - [Aritmética modular Parte 1](https://twitter.com/0xhasher_/status/1593380447643467778)
 - [Aritmética modular Parte 2](https://twitter.com/0xhasher_/status/1560837639057596417)
+- [Estructura Algebráicas](https://twitter.com/0xhasher_/status/1586142877796552704)
 
 
 ## Autores y agredecimentos ✨

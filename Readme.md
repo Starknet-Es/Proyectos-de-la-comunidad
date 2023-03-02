@@ -11,9 +11,10 @@
 - [@dpinones](#dpinones)
 - [@dub_zn](#dub_zn)
 - [@Nadai02010](#nadai02010)
-- [@haycarlitos](haycarlitos)
+- [@haycarlitos](#haycarlitos)
 - [@devnet0x](#devnet0x)
 - [@0xhasher_](#0xhasher_)
+- [@Fenrir_67](#fenrir_67)
 
 
 #### @dpinones
@@ -61,6 +62,11 @@
 - [Aritmética modular Parte 2](https://twitter.com/0xhasher_/status/1560837639057596417)
 - [Estructura Algebráicas](https://twitter.com/0xhasher_/status/1586142877796552704)
 
+#### @Fenrir_67
+
+- [Interpolación de Lagrange](https://twitter.com/Fenrir_67/status/1630929267260542977)
+- [¿Por qué usamos Campos en STARKS?](https://twitter.com/Fenrir_67/status/1625981419645272065)
+
 
 ## Autores y agredecimentos ✨
 
@@ -72,7 +78,8 @@
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Nadai02010"><img src="Nadai.jpg" width="100px;" alt="Nadai02010"/><br /><sub><b>@Nadai02010</b></sub></a><br /><a href="https://twitter.com/Nadai02010" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/haycarlitos"><img src="haycarlitos.jpg" width="100px;" alt="haycarlitos"/><br /><sub><b>@haycarlitos</b></sub></a><br /><a href="https://twitter.com/haycarlitos" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/devnet0x"><img src="devnet0x.jpg" width="100px;" alt="devnet0x"/><br /><sub><b>@devnet0x</b></sub></a><br /><a href="https://twitter.com/devnet0x" title="Twitter"></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xhasher_"><img src="0xhasher_.jpg" width="100px;" alt="0xhasher_"/><br /><sub><b>@0xhasher_</b></sub></a><br /><a href="https://twitter.com/0xhasher_" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xhasher_"><img src="0xhasher_.jpg" width="100px;" alt="0xhasher_"/><br /><sub><b>@0xhasher_</b></sub></a><br /><a href="https://twitter.com/0xhasher_" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Fenrir_67"><img src="Fenrir_67.jpg" width="100px;" alt="@fenrir_67"/><br /><sub><b>@Fenrir_67_</b></sub></a><br /><a href="https://twitter.com/Fenrir_67" title="Twitter"></a></td>
     </tr>
   </tbody>
 </table>

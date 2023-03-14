@@ -32,6 +32,7 @@
 
 #### @Nadai02010
 
+- [Nadai Cairo 1-Sierra-Casm](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra) - Aprende los ajustes basicos de Cairo 1.0 en Español y compila a Sierra, capa intermedia para luego también compilar a Casm.
 - [Nadai L2 Español Profundizando Starks](https://mirror.xyz/layer2es.eth/8TUEfpZPgl1u3-HyyGaUA0YMrFm8XSHfYtY6tfqFX7s) - Nadai con L2 Español elaboraron un artículo profundizando sobre el ecosistema Starkware, Starknet y Starks, un documento que incluye Winterfell, RiscZero, ZeroSync, Polygon Miden y más, haciendo que las Starks siente las báses criptográficas del futuro.
 - [Nadai Cairo 1.0](https://github.com/Nadai2010/Nadai-Cairo-1.0) - Explorando Cairo 1.0, nuevos conceptos, traducciones y sintáxis.
 - [¿Qué son los SFTs (Semi Fungibles Tokens)?](https://github.com/Nadai2010/Nadai-ERC3525-Starknet) - Guía el ERC-3525 Semi-Fungible Token SFT, como deployar en Starknet y su finalidad.

@@ -67,7 +67,7 @@
 
 - [Interpolación de Lagrange](https://twitter.com/Fenrir_67/status/1630929267260542977)
 - [¿Por qué usamos Campos en STARKS?](https://twitter.com/Fenrir_67/status/1625981419645272065)
-
+- [Evaluación de polinomios interpolados, corrección de error de Reed-Solomon y cosets](https://twitter.com/Fenrir_67/status/1635729367283236878?t=vIV2fLpQwUq1npITw8ykag&s=19)
 
 ## Autores y agredecimentos ✨
 

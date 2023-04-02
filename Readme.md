@@ -67,6 +67,8 @@
 
 #### @Fenrir_67
 
+- [Explorando Campos Finitos y Generadores - STARKS 1](https://mirror.xyz/0xc4eAb635B40bF49907375c3C7bd2495e3fDe79df/hX2h0h_bq_ppBpITsTCvwShWpNuzssikJdkS9BiVsH4)
+- [Fields, Interpolación de Lagrange y Polinomios - STARKS 2](https://mirror.xyz/0xc4eAb635B40bF49907375c3C7bd2495e3fDe79df/J5QpZAXpD93W21LxkZ7to5jTwu48q7B8IbWIU4cCIFA)
 - [Interpolación de Lagrange](https://twitter.com/Fenrir_67/status/1630929267260542977)
 - [¿Por qué usamos Campos en STARKS?](https://twitter.com/Fenrir_67/status/1625981419645272065)
 - [Evaluación de polinomios interpolados, corrección de error de Reed-Solomon y cosets](https://twitter.com/Fenrir_67/status/1635729367283236878?t=vIV2fLpQwUq1npITw8ykag&s=19)

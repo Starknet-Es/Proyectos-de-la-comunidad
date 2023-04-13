@@ -105,6 +105,7 @@
 
 ## Autores y agredecimentos ✨
 
+<div style="overflow-x:auto;">
 <table>
   <tbody>
     <tr>
@@ -115,12 +116,15 @@
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/devnet0x"><img src="devnet0x.jpg" width="100px;" alt="devnet0x"/><br /><sub><b>@devnet0x</b></sub></a><br /><a href="https://twitter.com/devnet0x" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/0xhasher_"><img src="0xhasher_.jpg" width="100px;" alt="0xhasher_"/><br /><sub><b>@0xhasher_</b></sub></a><br /><a href="https://twitter.com/0xhasher_" title="Twitter"></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Fenrir_67"><img src="Fenrir_67.jpg" width="100px;" alt="fenrir_67"/><br /><sub><b>@Fenrir_67_</b></sub></a><br /><a href="https://twitter.com/Fenrir_67" title="Twitter"></a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Hasseru"><img src="hassel.jpg" width="100px;" alt="Hasseru"/><br /><sub><b>@Hasseru</b></sub></a><br /><a href="https://twitter.com/Hasseru" title="Twitter"></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/glihm_"><img src="Glihm.jpg" width="100px;" alt="glhim"/><br /><sub><b>@glihm_
 </b></sub></a><br /><a href="https://twitter.com/glihm_" title="Twitter"></a></td>
     </tr>
   </tbody>
 </table>
+</div>
 
 
 

@@ -16,7 +16,7 @@
 - [@0xhasher_](#0xhasher_)
 - [@Fenrir_67](#fenrir_67)
 - [@Hasseru](#hasseru)
-- [@glihm_](glihm_)
+- [@glihm_](#glihm_)
 
 ---
 
@@ -91,7 +91,7 @@
 
 ---
 
-#### @Hassel
+#### @Hasseru
 
 - [WTF Academy](https://github.com/WTFAcademy/WTF-Starknet) - Una academia ha creado una serie de tutoriales llamada "WTF Starknet" con el objetivo de facilitar el aprendizaje en Starknet. Además, esta herramienta puede ser de gran utilidad para los desarrolladores de Ethereum que deseen adquirir conocimientos prácticos en Starknet.
 

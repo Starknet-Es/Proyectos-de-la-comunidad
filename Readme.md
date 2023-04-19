@@ -34,7 +34,7 @@
 - [Pathfinders-AR](https://github.com/dpinones/pathfinders-ar) - Este proyecto fue desarrollado para el MatchBoxDAO Hackathon, la idea es desarrollar en Cairo un algoritmo que resuelva el problema de búsqueda de rutas para un mapa representado en 2D. El mapa puede contener obstáculos, además suponemos que el movimiento en las casillas es bidireccional con un coste de movimiento uniforme.
 - [Cairo 1.0 Installer](https://github.com/sdgalvan/cairo-installer) -  Guía de instalación de [@dub](https://github.com/sdgalvan) que instala una versión de Cairo 1.0.
 - [Deployando un contrato en Testnet 2 de StarkNet](https://medium.com/starknet-en-espa%C3%B1ol/deployando-un-contrato-en-testnet-2-de-starknet-e2b101aef504) - Con este documento aprenderemos a usar la Testnet 2 para los desarrolladores.
-- [Quaireaux]() - Quaireaux es un paquete SCARB, por lo que podemos agregarlo a nuestro proyecto y utilizarlo agregando la dependencia al Scarb.toml
+- [Quaireaux](https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/Quaireaux%20JDC.pdf) - Quaireaux es un paquete SCARB, por lo que podemos agregarlo a nuestro proyecto y utilizarlo agregando la dependencia al Scarb.toml
 
 ---
 

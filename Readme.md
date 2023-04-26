@@ -61,7 +61,7 @@
 #### @devnet0x
 
 - [StarkNet Security Challenge](https://github.com/devnet0x/Starknet-Security-Challenges-Repo) - Inspirado en Ethereum Capture the Ether, este es un juego en el que pirateas contratos inteligentes de Starknet para aprender sobre seguridad. Está destinado a ser tanto divertido como educativo. Este juego está siendo adaptado a la red Starknet por [@devnet0x](https://github.com/devnet0x)
-
+- [Una introducción a la seguridad de los contratos inteligentes en Cairo 1.0](https://medium.com/@devnet0x/una-introducci%C3%B3n-a-la-seguridad-de-los-contratos-inteligentes-en-cairo-1-0-6bc7d2ab23b0) - Una traducción literal del [artículo](https://antoinemecker.medium.com/an-introduction-to-cairo-1-smart-contracts-security-1f96792b998a) en ingles publicado por [Antoine Mecker](https://twitter.com/Meckerrr) con algunas notas del traductor.
 ---
 
 #### @0xhasher_

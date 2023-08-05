@@ -40,6 +40,9 @@
 
 #### @Nadai02010
 
+- [Nadai dApp Aprendizaje SHH](https://nadai-source-dapp.vercel.app/) - Esta aplicación representa una versión de TEST en la cual podrás acceder a una variedad de recursos diseñados para facilitar la incorporación de nuevos desarrolladores al ecosistema. Encontrarás material de talleres, sesiones de HDS, Basecamp, Jueves de Cairo, y acceso a recursos clave. Además, podrás enviar tokens, reclamar NFT al estilo PoaP, y aprovechar diversas utilidades para Cairo y Starknet. A través de esta plataforma, podrás aprender de manera sencilla la sintaxis de Cairo, interactuar con contratos, desplegarlos, y experimentar con el poder de las Multicall con AA nativo en Starknet.
+- [Prover Platinum](https://github.com/Nadai2010/Lambda-Guia-Platinum) - Guía en Español sobre cómo instalar y utilizar **Prover Platinum** de Lambdaworks. Este nuevo Prover desarrollado por LambdaClass puede probar sus programas escritos en Cairo ejecutados en la Cairo VM, generarndo una traza de salida que deberá validar. Para ello, se generará una Validity Proof que valide que los cálculos sean íntegros que posteriormente se verificarán. Siga los pasos de la guía para explorar el potencial de este nuevo Prover.
+- [Guía Definitiva Cairo 1](https://github.com/Nadai2010/Nadai-StarknetEs-SC/) - En esta guía ya podemos profundizar más en la instalación que más se acomodo a tus preferencias `docker`, `script`, `manual` la que crea mejor, encontrará varios recursos para ello así como documentación oficial y todo lo necesario para comprender la Sintáxis desde varios equipos, pruebas de contratos de Cairo 1, test en Cairo, crear contratos de cuentas e información interesante al respecto.
 - [StarknetEs - Extensión para VS Code para Starknet - StarkEx](https://github.com/Nadai2010/Nadai-StarknetEs-StarkExt-VS-Code) - El equipo de Starknet-Es ha trabajado en la traducción y guía oficial de [StarkEx](https://github.com/7finney/starkex). Un plugin de Vscode para la Comunidad de Desarrolladores de Starknet.
 - [Nadai Guía - Desplegar tu contrato en Cairo 1](https://github.com/Nadai2010/Nadai-StarknetEs--Deploy-Cairo1) - El equipo Starknet-Es te da la ¡Bienvenida a la guía de despliegue del equipo StarknNet-Es! En este tutorial, aprenderás cómo desplegar tu contrato de Cairo 1 en testnet. Además, te enseñaremos cómo crear una nueva wallet con AA y cómo compilar a Sierra.
 - [Nadai Cairo 1-Sierra-Casm](https://github.com/Nadai2010/Nadai-Cairo-1.0-Sierra) - Aprende los ajustes basicos de Cairo 1.0 en Español y compila a Sierra, capa intermedia para luego también compilar a Casm.
@@ -66,6 +69,12 @@
 
 #### @0xhasher_
 
+- [Verificación del algoritmo de firmas](https://twitter.com/StarknetEs/status/1686733722291470336)
+- [Cómo enviar mensajes entre L1 y L2 - Proceso que se lleva a cabo en L1 para implementar la firma Schnorr (multisig)](https://twitter.com/StarknetEs/status/1686144376509251584)
+- [Modificación del algoritmo para hacer firmas múltiples](https://twitter.com/StarknetEs/status/1685056643887931392)
+- [Funcionamiento de un sistema Multi-Sig a través de un esquema de firmas](https://twitter.com/StarknetEs/status/1684239658715344896)
+- [Introducción de las Firmas Schnorr y cómo aplicarlas en un sistema Multi-Sig](https://twitter.com/StarknetEs/status/1683583091082919940)
+- [¿Starknet, Cairo 1, Casm y Sierra?](https://twitter.com/0xhasher_/status/1658591739022655490)
 - [¿En qué consiste el Protocolo FRI?](https://twitter.com/0xhasher_/status/1626245754116341760)
 - [Matemáticas del Protocolo STARK](https://twitter.com/0xhasher_/status/1623006274962042891)
 - [Introducción a los STARK](https://twitter.com/0xhasher_/status/1620100835823996933)
